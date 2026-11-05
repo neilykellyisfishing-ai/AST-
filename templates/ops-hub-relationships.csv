@@ -1,0 +1,2 @@
+name,email,company,tier,relationship_type,last_touch,last_touch_summary,next_step,next_due,status,flags,notes
+Example Person,example@domain.com,Acme Co,A,client,2026-11-01,Discussed Q1 order,Send revised quote,2026-11-07,active,,Prefers short emails

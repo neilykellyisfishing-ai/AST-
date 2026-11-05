@@ -1,0 +1,2 @@
+card_id,date,source,from,subject,category,urgent,handled_by,outcome
+T-20261101-1,2026-11-01,email,example@domain.com,Q1 order,REPLY_NEEDED,yes,DRAFTER,draft sent by owner

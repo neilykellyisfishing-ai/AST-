@@ -1,0 +1,2 @@
+task_id,task,owner,related_contact_email,source_card,due_date,status,done_date,notes
+K-001,Send revised quote,me,example@domain.com,T-20261101-1,2026-11-07,open,,
