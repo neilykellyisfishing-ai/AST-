@@ -2,7 +2,7 @@
 
 ## How I write
 - Greeting: e.g. "Hey <first name>," / "Hi <first name>,"
-- Sign-off: e.g. "Cheers, Neil"
+- Sign-off: e.g. "Cheers, <your name>"
 - Length: short. 3–6 sentences.
 - Tone: warm, direct, no corporate filler. Words I never use: "circle back", "per my last email", "I hope this email finds you well".
 - I always end with one clear question or proposed time.
